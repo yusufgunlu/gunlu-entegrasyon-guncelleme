@@ -1,6 +1,25 @@
 {
-  "surum": "3.3.3",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.3/GunluEntegrasyon_Setup_3.3.3.exe",
-  "sha256": "c228c4e9fc76f524b85285919706003c2ff311c0afcfe2cca8e0fbc4e0f67680",
-  "notlar": "Luca paket seçimi düzeltildi, giriş daha kararlı. Açılır pencere ve şifre kaydetme uyarıları artık çıkmıyor."
+  "surum": "3.3.4",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.4/GunluEntegrasyon_Setup_3.3.4.exe",
+  "sha256": "59d5d2885002dc7ca83c8302434de85d1064a960dec24d608bbfb24b12c7e8a2",
+  "notlar": "Luca giriş ve paket seçimi Chrome 154 ile uyumlu hâle getirildi; giriş sayfası sorunları artık ekranda açıkça yazılıyor."
 }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
