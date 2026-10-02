@@ -1,6 +1,6 @@
 {
-  "surum": "3.3.2",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.2/GunluEntegrasyon_Setup_3.3.2.exe",
-  "sha256": "BURAYA_HASH",
-  "notlar": "Luca paket seçimi beklemeden yapılıyor. Açılır pencere ve şifre kaydetme uyarıları artık çıkmıyor; giriş daha kararlı."
+  "surum": "3.3",
+  "indirme": "",
+  "sha256": "",
+  "notlar": ""
 }
