@@ -1,6 +1,6 @@
 {
-  "surum": "3.3.2",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.2/GunluEntegrasyon_Setup_3.3.2.exe",
-  "sha256": "5ebb1faadec74dc9cd372ca16a8cc4fcef337047360a34bcbd4d9ea142757dee",
-  "notlar": "Luca paket seçimi beklemeden yapılıyor; açılır pencere ve şifre kaydetme uyarıları artık çıkmıyor."
+  "surum": "3.3.3",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.3/GunluEntegrasyon_Setup_3.3.3.exe",
+  "sha256": "c228c4e9fc76f524b85285919706003c2ff311c0afcfe2cca8e0fbc4e0f67680",
+  "notlar": "Luca paket seçimi düzeltildi, giriş daha kararlı. Açılır pencere ve şifre kaydetme uyarıları artık çıkmıyor."
 }
