@@ -1,15 +1,9 @@
 {
-  "surum": "3.3.4",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.4/GunluEntegrasyon_Setup_3.3.4.exe",
-  "sha256": "59d5d2885002dc7ca83c8302434de85d1064a960dec24d608bbfb24b12c7e8a2",
-  "notlar": "Luca giriş ve paket seçimi Chrome 154 ile uyumlu hâle getirildi; giriş sayfası sorunları artık ekranda açıkça yazılıyor."
+  "surum": "3.3.5",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.5/GunluEntegrasyon_Kurulum_3.3.5.exe",
+  "sha256": "5c425dcd594eb0ebd0a3272d3aa7acd0252584095f75ece87c8c00e87f6e001c",
+  "notlar": "Banka ekstresi karşı hesap eşleştirmesi iyileştirildi (Türkçe harf farkları, bitişik yazılan unvanlar, emin olunmayan satırlar boş bırakılıyor); sermaye geçmeyen satırlarda 500 yerine 100 Kasa kullanılıyor; .xls ekstre desteği eklendi."
 }
- 
-
-
-
-
-
 
 
 
