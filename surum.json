@@ -1,14 +1,9 @@
 {
-  "surum": "3.3.5",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.5/GunluEntegrasyon_Kurulum_3.3.5.exe",
-  "sha256": "5c425dcd594eb0ebd0a3272d3aa7acd0252584095f75ece87c8c00e87f6e001c",
-  "notlar": "Banka ekstresi karşı hesap eşleştirmesi iyileştirildi (Türkçe harf farkları, bitişik yazılan unvanlar, emin olunmayan satırlar boş bırakılıyor); sermaye geçmeyen satırlarda 500 yerine 100 Kasa kullanılıyor; .xls ekstre desteği eklendi."
+  "surum": "3.3.6",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.6/GunluEntegrasyon_Kurulum_3.3.6.exe",
+  "sha256": "949b569c75f1e5277da516bcc835f5c9a0216b9c3b5d4955a2b8abc6d4476449",
+  "notlar": "Fatura işlemede borç/alacak/miktar programdan düzenlenebiliyor, satır ekleme/silme her satırda; farklı evraklar renkli gösteriliyor. Diğer Vergiler matraha dengeli aktarılıyor; ihraç kayıtlı alışlar KDV'siz işleniyor; işlenmiş belgelerin fiş numarası tıklanınca fiş açılıyor. Banka ekstresinde POS komisyonu ayrı satır olarak banka masrafı hesabına, maaş ödemeleri 335 hesabına gidiyor."
 }
-
-
-
-
-
 
 
 
