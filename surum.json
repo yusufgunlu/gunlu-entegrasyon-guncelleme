@@ -1,6 +1,6 @@
 {
-  "surum": "3.3.7",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.7/GunluEntegrasyon_Kurulum_3.3.7.exe",
-  "sha256": "f5098c8fa9a172edbabace6aa4d78c096de2df7f80fed1c2e06de81525f16015",
-  "notlar": "Tam iş akışında inmeyen faturalar artık 'indirildi' sayılmıyor; klasörde olmayan dosyalar yeniden indiriliyor. Fatura işleme tablosu ekranı tam kullanıyor, belgeler birbirinden belirgin şekilde ayrılıyor."
+  "surum": "3.3.8",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.7/GunluEntegrasyon_Kurulum_3.3.8.exe",
+  "sha256": "EBAD0E146AF9CD80F9D08D45D291628B1318353D52742B8DDE50C9873972ACAB",
+  "notlar": "güncelleme"
 }
