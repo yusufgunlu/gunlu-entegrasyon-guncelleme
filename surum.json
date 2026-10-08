@@ -1,6 +1,6 @@
 {
   "surum": "3.4.1",
   "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.4.1/GunluEntegrasyon_Kurulum_3.4.1.exe",
-  "sha256": "BURAYA_SHA256_YAZ",
+  "sha256": "192AF65DC8AED83B2C8B4722C06308EB4BD47844F45714BEDE96C2552AA2D7F3",
   "notlar": "e-Arşiv ve e-Fatura fatura işleme: Belge Ara sonrası alınan 'super object has no attribute' hatası düzeltildi. Banka ekstresi: PDF desteği, döviz ekstresi tespiti ve bakiye zinciriyle borç/alacak kontrolü eklendi."
 }
