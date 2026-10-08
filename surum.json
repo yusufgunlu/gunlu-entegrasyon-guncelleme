@@ -1,6 +1,6 @@
 {
-  "surum": "3.4.2",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.4.1/GunluEntegrasyon_Kurulum_3.4.2.exe",
-  "sha256": "806bb2ab7850a0f31fe75f871648885b8339ca780a461c96860ae23fddaf9e22",
-  "notlar": "güncelleme"
+  "surum": "3.4.3",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.4.3/GunluEntegrasyon_Kurulum_3.4.3.exe",
+  "sha256": "a43d99c658fdd15146f749e049656d6d8c5e91b1c5d83472a064274ea495c19b",
+  "notlar": "Arayüz ve banka ekstresi iyileştirmesi."
 }
