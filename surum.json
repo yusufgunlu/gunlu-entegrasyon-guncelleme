@@ -1,6 +1,6 @@
 {
-  "surum": "3.3.9",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.3.9/GunluEntegrasyon_Kurulum_3.3.9.exe",
-  "sha256": "BEB721E8C1CB911481F85A00B88B0A97EF7A3F146BFB17CFDE924F396922701C",
+  "surum": "3.4.1",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.4.1/GunluEntegrasyon_Kurulum_3.4.1.exe",
+  "sha256": "192AF65DC8AED83B2C8B4722C06308EB4BD47844F45714BEDE96C2552AA2D7F3",
   "notlar": "güncelleme"
 }
