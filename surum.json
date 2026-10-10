@@ -1,6 +1,11 @@
 {
-  "surum": "3.4.3",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.4.3/GunluEntegrasyon_Kurulum_3.4.3.exe",
-  "sha256": "a43d99c658fdd15146f749e049656d6d8c5e91b1c5d83472a064274ea495c19b",
-  "notlar": "Arayüz ve banka ekstresi iyileştirmesi."
+  "surum": "3.4.4",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.4.4/GunluEntegrasyon_Kurulum_3.4.4.exe",
+  "sha256": "2b7eedf8bd0250a3573acae7a989b8269170cefc8aa3d554df9120cb3a004bba",
+  "notlar": "v3.4.4 Yenilikler
+
+İŞKUR Aylık İş Gücü Çizelgesi: Aylık iş gücü çizelgesi otomatik olarak hazırlanıp sunulacak.
+KDV-2 Firma Bazlı Detaylı Rapor: KDV-2 verileri firma firma ayrıştırılarak detaylı rapor halinde alınabilecek.
+İhracat Modülü: Yüklenilen KDV ve GÇB (Gümrük Çıkış Beyannamesi) tarihleri rapor olarak alınabilecek.
+Döviz Pozisyonu Formu: Form, mevcut verilerden otomatik doldurulacak."
 }
