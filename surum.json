@@ -1,7 +1,7 @@
 {
-  "surum": "3.4.9",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.4.9/GunluEntegrasyon_Kurulum_3.4.9.exe",
-  "sha256": "7b5e3012d185e6a3db2d2f0369b339f723a7e323f3052519d1fbb981766f8103",
+  "surum": "3.5.0",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.0/GunluEntegrasyon_Kurulum_3.5.0.exe",
+  "sha256": "2c2222328a67bcac78a63df7597089de19d54d82abf7a9c0d9af06c1dadda155",
   "notlar": "Luca giriş ve paket seçimi Chrome 154 ile uyumlu hâle getirildi; giriş sayfası sorunları artık ekranda açıkça yazılıyor.",
-  "imza": "VONFaiA3wjLnXHyw8e_GRpaQXZMrdZYlYGDRuMXUGN3Cs1wIjsg7oBI6ZSPJHS0tFbbrY4zjwlPdunN1tpcyBA"
+  "imza": "f5cOJEAax2b93xY6tWQbE-FT7K4_NvIhTcjf2vD1Hh9rDIYhPOvCMX_REM9G0mx299FQ41midWlWp1I2D9CYCQ"
 }
