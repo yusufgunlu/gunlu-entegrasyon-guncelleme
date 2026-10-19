@@ -1,7 +1,7 @@
 {
-  "surum": "3.5.0",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.0/GunluEntegrasyon_Kurulum_3.5.0.exe",
-  "sha256": "53a9680e0b1b8e1d4c631cdf98933bb39c3fe00930bd3cb558309bee602497a1",
-  "notlar": "Luca giriş ve paket seçimi Chrome 154 ile uyumlu hâle getirildi; giriş sayfası sorunları artık ekranda açıkça yazılıyor.",
-  "imza": "vdfpVF6ttf3KWP0RdlzvXx8hskrqh4dnDzvJaPSJXXmPP6Ea_AeCsji6ojWJWd2OjEF2IbKqKiNdNWR3zhtLAw"
+  "surum": "3.5.1",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.1/GunluEntegrasyon_Setup_3.5.1.exe",
+  "sha256": "2edc187efab36d4114c7b8c0b6f937abff98d0379f8ddd3584c58bd81567ee54",
+  "notlar": "Durum Panosu: KDV2 / TEVKİFAT KONTROL ve yeni E-SMM KONTROL bölümü (e-SMM belgeleri ayrı listelenir, yazdırılabilir rapor). E-SMM matrah okuma hatası düzeltildi.",
+  "imza": "zhG1aJCg8YdlT2BpVGDBZUhFFGvmehvakB7BCY1mQkdBMXg7pL0vwEldZfbnZWZKbHGLYodsu-saXsOnLrh2AQ"
 }
