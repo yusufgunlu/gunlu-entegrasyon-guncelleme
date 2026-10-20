@@ -1,7 +1,7 @@
 {
-  "surum": "3.5.3",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.3/GunluEntegrasyon_Setup_3.5.3.exe",
-  "sha256": "e6a0e783af415e9c9df7959e1c074845b09f73d234da4526761111afc0a0aa80",
-  "notlar": "Ticaret Sicil ekranı sadeleşti: listeden firma seçip Sorgula'ya basınca giriş otomatik yapılıyor, gazete PDF'i kendiliğinden açılmazsa 'Aç' düğmesi de deneniyor. Beyanname Takip: dosya geçici olarak okunamazsa (ağ kesintisi/bozuk dosya) eski seçimlerin silinmesi engellendi. Akıllı Entegrasyon: aynı evrak numaralı iki ayrı fiş artık ayrı denetleniyor; Luca 'muhasebeleşecek faturaları seçiniz' uyarısı verirse program beklemeden duruyor. Kapasite Raporu: farklı odaların PDF başlık yazımları daha iyi tanınıyor.",
-  "imza": "q2ulQpv7G5oJroFzAiU9KZeHs8Yar8Bcw67w2_zrEjpl4hlYBMFqn2rEBQJ4rPTJGZi4HEA2HUXYKYJuYmA3BA"
+  "surum": "3.5.4",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.4/GunluEntegrasyon_Setup_3.5.4.exe",
+  "sha256": "d2927842ed235c3d92d003ee5a28b9bf64d7c3b2b97ec55419d4e73ec8068f87",
+  "notlar": "KDV2 ekranında firma seçilince 'KDV2 Faturalarını Tek PDF Yap' düğmesi eklendi: firmanın tevkifatlı faturaları tarihe göre sıralanıp tek PDF olarak kaydedilir. E-Tebligat sayfasındaki 'GİB Bilgilerini Luca'dan Çek' ve 'GİB Bilgileri (elle)' düğmeleri kaldırıldı; Luca'ya bağlanınca GİB bilgileri otomatik güncelleniyor ve menüde sürekli 'GÜNCELLE' yazısı çıkmıyor.",
+  "imza": "JqLPq13qj0tZQt4Zoiwx5V0oKFabjYvIEez3DI3h7GHuIDQZk0TGoLWHV2Xspgmk7M5yXuqa-GDiYdNwcrA7CA"
 }
