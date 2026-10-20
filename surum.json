@@ -1,7 +1,7 @@
 {
-  "surum": "3.5.2",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.2/GunluEntegrasyon_Setup_3.5.2.exe",
-  "sha256": "622e4fecd43f729a2c3bd5ee883d668acd752993fda3e14c77edf4e007d9d78c",
-  "notlar": "Fatura indirmede Luca'nın 'Fatura kaydetme işlemi sona erdi' penceresindeki Kapat düğmesine yeniden otomatik basılıyor (Luca'nın yeni sayfa yapısına uyumlu). Tam iş akışında menü açma yedek yöntemi eklendi. E-SMM KONTROL bölümü ve yazdırılabilir rapor eklendi, KDV2/TEVKİFAT KONTROL yeniden adlandırıldı.",
-  "imza": "62UF0YpCGJtM_JG337CtyOa_hdjq2rIljn00-Bzu2k6IJai65pT76tC8faDKtPmpz4JYnfQXEKl8Bcj4uncGBw"
+  "surum": "3.5.3",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.3/GunluEntegrasyon_Setup_3.5.3.exe",
+  "sha256": "e6a0e783af415e9c9df7959e1c074845b09f73d234da4526761111afc0a0aa80",
+  "notlar": "Ticaret Sicil ekranı sadeleşti: listeden firma seçip Sorgula'ya basınca giriş otomatik yapılıyor, gazete PDF'i kendiliğinden açılmazsa 'Aç' düğmesi de deneniyor. Beyanname Takip: dosya geçici olarak okunamazsa (ağ kesintisi/bozuk dosya) eski seçimlerin silinmesi engellendi. Akıllı Entegrasyon: aynı evrak numaralı iki ayrı fiş artık ayrı denetleniyor; Luca 'muhasebeleşecek faturaları seçiniz' uyarısı verirse program beklemeden duruyor. Kapasite Raporu: farklı odaların PDF başlık yazımları daha iyi tanınıyor.",
+  "imza": "q2ulQpv7G5oJroFzAiU9KZeHs8Yar8Bcw67w2_zrEjpl4hlYBMFqn2rEBQJ4rPTJGZi4HEA2HUXYKYJuYmA3BA"
 }
