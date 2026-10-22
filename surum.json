@@ -1,7 +1,7 @@
 {
-  "surum": "3.5.5",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.5/GunluEntegrasyon_Setup_3.5.5.exe",
-  "sha256": "5e6978343d768666d23e0c398efcbc6f54a11ea9e59d931530d47c73eb2a7151",
-  "notlar": "Ayarlar > Mükellef Bilgileri eklendi: her firma için GİB e-Fatura / e-Arşiv / e-SMM, UTTS, İşnet ve Türmob entegratör seçimleri işaretlenir. e-Fatura alış/satış için İşnet veya Türmob işaretliyse faturalar yalnızca o entegratörden indirilir (İŞNET ALIŞ FATURALARI.zip gibi), işaretli değilse eskisi gibi GİB'den. İndirilen faturalar ayrıca fatura numarası adıyla tek tek PDF olarak kaydedilir (ör. ALIŞ FATURALARI\\E-FATURA ALIŞ PDF); tam iş akışı PDF'ler bitmeden sonraki adıma geçmez. KDV2 bölümünde yalnızca e-SMM tevkifatı olan firmalar \"E-SMM VAR\" yazar; E-SMM KONTROL bölümüne \"E-SMM Faturalarını Tek PDF Yap\" eklendi. Tam iş akışı adımları işaretsiz gelir ve KDV Analizi Rapor'un altına taşındı.",
-  "imza": "5YroKUuxC2AzpeVaJ41hdcwRIUFe1mFzDc1Ofocvaifi1z-dsvgX-cZ91YHuVjvPmKlr_83Eh5yMwgByaONSAg"
+  "surum": "3.5.6",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.6/GunluEntegrasyon_Setup_3.5.6.exe",
+  "sha256": "2022e4d274d047a919a69c73fd0ecb336c8e23684f44204cba935c6587d09112",
+  "notlar": "Lisansı olmayan bilgisayarlar için 15 günlük deneme sürümü eklendi: program ilk açılışta denemeyi başlatır, kalan gün üst şeritte \"Deneme\" etiketinde görünür; etikete tıklayarak deneme sırasında lisans kodu girilebilir. Süre dolunca program lisans kodu ister. Üst şeritteki başlık \"GÜNLÜ ENTEGRASYON\" olarak değiştirildi.",
+  "imza": "BMhzlB84iLyL2-xfCqZuGmnX9lkVLC6vWAeeBnQtfbdM3MEB_QRm53HKgLZFliJILsZI27VJthFlBvHoz8GfCA"
 }
