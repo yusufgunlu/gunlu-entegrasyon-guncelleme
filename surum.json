@@ -1,7 +1,7 @@
 {
-  "surum": "3.5.6",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.6/GunluEntegrasyon_Setup_3.5.6.exe",
-  "sha256": "2022e4d274d047a919a69c73fd0ecb336c8e23684f44204cba935c6587d09112",
-  "notlar": "Lisansı olmayan bilgisayarlar için 15 günlük deneme sürümü eklendi: program ilk açılışta denemeyi başlatır, kalan gün üst şeritte \"Deneme\" etiketinde görünür; etikete tıklayarak deneme sırasında lisans kodu girilebilir. Süre dolunca program lisans kodu ister. Üst şeritteki başlık \"GÜNLÜ ENTEGRASYON\" olarak değiştirildi.",
-  "imza": "BMhzlB84iLyL2-xfCqZuGmnX9lkVLC6vWAeeBnQtfbdM3MEB_QRm53HKgLZFliJILsZI27VJthFlBvHoz8GfCA"
+  "surum": "3.5.7",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.7/GunluEntegrasyon_Setup_3.5.7.exe",
+  "sha256": "9c46c7d640acb6c86c33011096967617afc2d4ffc0a3b7a96cdb23bf8a0dafe4",
+  "notlar": "Fatura İşleme: hesap kodu listesi Luca'daki gibi kutuya yapışık açılır, üstteki satırları örtmez, tüm hesapları gösterir (üst hesaplar gri, seçilemez). F10 hesap açma penceresi Luca'nın 'Hesap Kodu Tanımlama' ekranına benzetildi: VKN ve TCKN kutuları ile Sorgula düğmesi eklendi; F10'a basınca Luca'da da pencere açılır, Vazgeç ile kapanır. Belgeler listesine 'İşlenmeyenleri Seç' düğmesi eklendi. Hesap Kodları Güncelle: mizan 'Tümünü Göster' seçeneğiyle alınır, harf içeren hesap kodlarındaki hata giderildi.",
+  "imza": "jvpfCzA0vV_zzV1vklcAWC3mMHcPV0S2gx6_l4hevbuJr7kuWl_033Bf0L4ORz6L2BAtWWGv1VRG1j-lr51DCw"
 }
