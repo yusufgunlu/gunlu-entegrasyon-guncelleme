@@ -1,7 +1,7 @@
 {
-  "surum": "3.5.7",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.7/GunluEntegrasyon_Setup_3.5.7.exe",
-  "sha256": "9c46c7d640acb6c86c33011096967617afc2d4ffc0a3b7a96cdb23bf8a0dafe4",
-  "notlar": "Fatura İşleme: hesap kodu listesi Luca'daki gibi kutuya yapışık açılır, üstteki satırları örtmez, tüm hesapları gösterir (üst hesaplar gri, seçilemez). F10 hesap açma penceresi Luca'nın 'Hesap Kodu Tanımlama' ekranına benzetildi: VKN ve TCKN kutuları ile Sorgula düğmesi eklendi; F10'a basınca Luca'da da pencere açılır, Vazgeç ile kapanır. Belgeler listesine 'İşlenmeyenleri Seç' düğmesi eklendi. Hesap Kodları Güncelle: mizan 'Tümünü Göster' seçeneğiyle alınır, harf içeren hesap kodlarındaki hata giderildi.",
-  "imza": "jvpfCzA0vV_zzV1vklcAWC3mMHcPV0S2gx6_l4hevbuJr7kuWl_033Bf0L4ORz6L2BAtWWGv1VRG1j-lr51DCw"
+  "surum": "3.5.8",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.8/GunluEntegrasyon_Setup_3.5.8.exe",
+  "sha256": "502858fd5649ce5ce554e8869f0f91d9f1e3b072935616bf6b04a4dd92a7a162",
+  "notlar": "Z Raporu Entegrasyonu: işletme / bilanço ayrımı artık program açılışındaki defter sınıflandırmasından alınıyor; Luca üst menüsünden ayrıca okunmuyor.",
+  "imza": "twZaBeq8SVOawIT6JfpzpMruO1DMWb5fGgt6sL3iIHxQsRxmUtZFRcVVAh5yp-yKRthsVmnlT4AG6KN6hKXJAQ"
 }
