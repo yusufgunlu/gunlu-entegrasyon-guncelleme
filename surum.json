@@ -1,7 +1,7 @@
 {
-  "surum": "3.5.8",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.8/GunluEntegrasyon_Setup_3.5.8.exe",
-  "sha256": "502858fd5649ce5ce554e8869f0f91d9f1e3b072935616bf6b04a4dd92a7a162",
-  "notlar": "Z Raporu Entegrasyonu: işletme / bilanço ayrımı artık program açılışındaki defter sınıflandırmasından alınıyor; Luca üst menüsünden ayrıca okunmuyor.",
-  "imza": "twZaBeq8SVOawIT6JfpzpMruO1DMWb5fGgt6sL3iIHxQsRxmUtZFRcVVAh5yp-yKRthsVmnlT4AG6KN6hKXJAQ"
+  "surum": "3.5.9",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.5.9/GunluEntegrasyon_Setup_3.5.9.exe",
+  "sha256": "af1724be5cd3d1deaa54d42f32a2ab27ba896987ffc7009111273e4fb3df6d79",
+  "notlar": "Fişler (Alış) ve Fişler (Satış - Z Raporu) OCR okuma ve muhasebeleştirme modülü eklendi; Hesap Açma (F10) penceresi serbest hesap kodu kırılımı, ortalama, sürükleme ve belirgin kenarlıkla yenilendi; Alış/Satış İade faturalarında 320/120 cari arama ve pencere odaklama iyileştirildi.",
+  "imza": "Um6ovEOIlM-HebxQdjfPKGhxQAbXVT6bINknfPKojysGtskxqRJOBjRH2TraTqE8W3RFiB1CpD4Kr6LoG18RDQ"
 }
