@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.2",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.2/GunluEntegrasyon_Setup_3.6.2.exe",
-  "sha256": "59fc892ffbad1fdebf8741d814bdae70e9b4a71dc1aeb71cf0689063a7d4ef85",
-  "notlar": "APPLOG klasör düzeni (sistem verileri ve işlem adına göre ayrılmış rapor alt klasörleri) eklendi; Fatura İşleme ekranında muhasebeleştirilmeyen evrak vurgusu, 120/320 hesap planından %80+ doğrulukla otomatik cari eşleştirme (alış/satış iade uyumlu) ve taslakta yalnızca kutucukları işaretli faturaların muhasebeleştirilip işaretsizlerin taslakta bırakılması sağlandı.",
-  "imza": "t0GMTSPSVLSOW3OSl7_NuAKEiKcvj5SlPhoqUSkyBhEq1We5412xOvpsQCQ53VxhPsqVeoOaN1C5snZCfAB0CQ"
+  "surum": "3.6.3",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.3/GunluEntegrasyon_Setup_3.6.3.exe",
+  "sha256": "59a1d2f25d00642e4f65e24b7d3b540c2598b90ceffb41517d9f45416098dcd1",
+  "notlar": "Beyanname Kontrol menüsü Vergi Dairesi altına taşındı; KDV dönemine göre beyanname görüntüleme ve 3 aylık beyannameler için WhatsApp gönderim desteği eklendi; Luca zaman aşımı otomatik yenileme/giriş koruması, tarayıcıdan elle indirmelerde PDF açma ve İndirilenler klasörü düzeltmesi, Fatura İşleme kaydırma/fatura öne getirme ve Hesap boş olamaz kısıt bilgilendirmesi eklendi.",
+  "imza": "dRj9iBMbH26KBlMaPEaxYGhJTkpYWK6b-i-H3Wu6sPC8x1xvohfX1wtfRXLNVGVAvTYjIlckWoAPitLFKmBcCw"
 }
