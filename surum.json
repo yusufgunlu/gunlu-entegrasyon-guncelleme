@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.0",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.0/GunluEntegrasyon_Setup_3.6.0.exe",
-  "sha256": "85e8d77e7760c569574f23c9bad95c364c1e6c76d2b3c57d465a346c241c6b95",
-  "notlar": "İşletme Defteri Z Raporu (Gelir Girişi) kayıt desteği, Fişler ekranında kompakt açılır/kapanır satır görünümü, Z/Fiş No sıralaması, durum renk kodlaması (Tamamlandı/Bekliyor/Boş) ve okunamayan belgeler için kurumsal bildirim penceresi eklendi.",
-  "imza": "-Vjo18sn6FLEZZXLtob_aUxbWn6Hdjrvw7f3wtq8mx5_VlUH1_UY2jHv5Xm0oI7VvBdN3GeAsdYnSAWLIcDNDA"
+  "surum": "3.6.1",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.1/GunluEntegrasyon_Setup_3.6.1.exe",
+  "sha256": "5a681fac1f21a95411b6a92969cb5930a6691aab1f7ca87beae43652e2fab887",
+  "notlar": "Mükellef Bilgileri kartına Beyan Dönemi / Şekli seçimi (KDV1, KDV2, MUHSGK aylık/3 aylık/dilekçe, POŞET, Geçici Vergi, Yıllık Gelir/Kurumlar) ve otomatik yedekleme/geri yükleme eklendi; Beyanname Kontrol Listesi bu tanımlarla entegre edildi.",
+  "imza": "Ak3OyDYmdzLqO33C9WsO9TkgSJhthVNMl2sYuJNaWYPupIlICGAM_cZ8-N3zSpmBbcqksV8jatx0I949dUMZAA"
 }
