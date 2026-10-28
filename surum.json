@@ -1,7 +1,7 @@
 {
   "surum": "3.6.3",
   "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.3/GunluEntegrasyon_Setup_3.6.3.exe",
-  "sha256": "59a1d2f25d00642e4f65e24b7d3b540c2598b90ceffb41517d9f45416098dcd1",
+  "sha256": "e6858648f85605749a26fd7515ea10c9ac06363eb0ce7c05e608d0e4ffaf62d8",
   "notlar": "Beyanname Kontrol menüsü Vergi Dairesi altına taşındı; KDV dönemine göre beyanname görüntüleme ve 3 aylık beyannameler için WhatsApp gönderim desteği eklendi; Luca zaman aşımı otomatik yenileme/giriş koruması, tarayıcıdan elle indirmelerde PDF açma ve İndirilenler klasörü düzeltmesi, Fatura İşleme kaydırma/fatura öne getirme ve Hesap boş olamaz kısıt bilgilendirmesi eklendi.",
-  "imza": "dRj9iBMbH26KBlMaPEaxYGhJTkpYWK6b-i-H3Wu6sPC8x1xvohfX1wtfRXLNVGVAvTYjIlckWoAPitLFKmBcCw"
+  "imza": "TcG8wn_r0EEjQpjTWQhF6953oE1dKiwl04vwkRoYFtKVr7JXFAu0YOeP5TxUYduf1QLPnQ5cS_nw_hUIsazVAA"
 }
