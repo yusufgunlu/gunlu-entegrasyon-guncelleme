@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.3",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.3/GunluEntegrasyon_Setup_3.6.3.exe",
-  "sha256": "e6858648f85605749a26fd7515ea10c9ac06363eb0ce7c05e608d0e4ffaf62d8",
-  "notlar": "Beyanname Kontrol menüsü Vergi Dairesi altına taşındı; KDV dönemine göre beyanname görüntüleme ve 3 aylık beyannameler için WhatsApp gönderim desteği eklendi; Luca zaman aşımı otomatik yenileme/giriş koruması, tarayıcıdan elle indirmelerde PDF açma ve İndirilenler klasörü düzeltmesi, Fatura İşleme kaydırma/fatura öne getirme ve Hesap boş olamaz kısıt bilgilendirmesi eklendi.",
-  "imza": "TcG8wn_r0EEjQpjTWQhF6953oE1dKiwl04vwkRoYFtKVr7JXFAu0YOeP5TxUYduf1QLPnQ5cS_nw_hUIsazVAA"
+  "surum": "3.6.4",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.4/GunluEntegrasyon_Setup_3.6.4.exe",
+  "sha256": "6f93f23c4907a44aadb666be564a50abc0479affdc291769878ee538c770152e",
+  "notlar": "Müşteri kartlarındaki Ticaret Sicil bilgileri Ayarlar > Mükellef Bilgileri ekranına taşındı ve tek mükellef için Luca'dan bilgi çekme düğmesi eklendi; Ticaret Odası ekranına tüm mükelleflerin sicil bilgilerini topluca çekme alanı ile gazeteleri otomatik indirmeden programda listeleme, tek tek indirme/açma ve Captcha önleyici güvenlik beklemeli sıralı indirme özelliği eklendi.",
+  "imza": "vAdrPfaoDLJ7pcccIHVXuzN5Po7ypg-6atj5lspkV3QHtnmBP8J_qCNXr73mBpvBHnMd0wgOmLJCWWGuvdb8AA"
 }
