@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.4",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.4/GunluEntegrasyon_Setup_3.6.4.exe",
-  "sha256": "6f93f23c4907a44aadb666be564a50abc0479affdc291769878ee538c770152e",
-  "notlar": "Müşteri kartlarındaki Ticaret Sicil bilgileri Ayarlar > Mükellef Bilgileri ekranına taşındı ve tek mükellef için Luca'dan bilgi çekme düğmesi eklendi; Ticaret Odası ekranına tüm mükelleflerin sicil bilgilerini topluca çekme alanı ile gazeteleri otomatik indirmeden programda listeleme, tek tek indirme/açma ve Captcha önleyici güvenlik beklemeli sıralı indirme özelliği eklendi.",
-  "imza": "vAdrPfaoDLJ7pcccIHVXuzN5Po7ypg-6atj5lspkV3QHtnmBP8J_qCNXr73mBpvBHnMd0wgOmLJCWWGuvdb8AA"
+  "surum": "3.6.5",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.5/GunluEntegrasyon_Setup_3.6.5.exe",
+  "sha256": "4c1f5199c833cd7cc38c91f2a965d6f2c1ef4a1ae3a51672e090591db5fa4ad0",
+  "notlar": "Durum Panosu 6 özet kartlı yönetim paneline dönüştürüldü (evrak ilerlemesi, beyanname özeti, 7 günlük E-Tebligat takibi, KDV2 çapraz kontrolü, 360° firma özeti ve Yönetici Excel raporu) ve KDV2 & e-SMM Kontrol ekranı Vergi Dairesi menüsüne taşındı; Mükellef Bilgileri'ne defter türü seçimi (Bilanço, İşletme, Serbest Meslek) ve kapsam dışı mükellef gizleme özelliği eklendi; bağımsız Zamanlanmış Çalıştırma ve gelişmiş Bildirim Merkezi taslakları eklendi; Vergi Dairesi menüsündeki okunmamış e-tebligat rozeti kaldırıldı.",
+  "imza": "wlsgu9Ioom4rz267b32ITVLpmtjGgjy_4c291eF7jo_1TgBQkPJpty9Ha9q8DwL3Yl2BVteQPMjACQ9Ipt45Aw"
 }
