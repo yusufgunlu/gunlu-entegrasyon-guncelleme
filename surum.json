@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.5",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.5/GunluEntegrasyon_Setup_3.6.5.exe",
-  "sha256": "4c1f5199c833cd7cc38c91f2a965d6f2c1ef4a1ae3a51672e090591db5fa4ad0",
-  "notlar": "Durum Panosu 6 özet kartlı yönetim paneline dönüştürüldü (evrak ilerlemesi, beyanname özeti, 7 günlük E-Tebligat takibi, KDV2 çapraz kontrolü, 360° firma özeti ve Yönetici Excel raporu) ve KDV2 & e-SMM Kontrol ekranı Vergi Dairesi menüsüne taşındı; Mükellef Bilgileri'ne defter türü seçimi (Bilanço, İşletme, Serbest Meslek) ve kapsam dışı mükellef gizleme özelliği eklendi; bağımsız Zamanlanmış Çalıştırma ve gelişmiş Bildirim Merkezi taslakları eklendi; Vergi Dairesi menüsündeki okunmamış e-tebligat rozeti kaldırıldı.",
-  "imza": "wlsgu9Ioom4rz267b32ITVLpmtjGgjy_4c291eF7jo_1TgBQkPJpty9Ha9q8DwL3Yl2BVteQPMjACQ9Ipt45Aw"
+  "surum": "3.6.6",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.6/GunluEntegrasyon_Setup_3.6.6.exe",
+  "sha256": "8d8132abaae85c76a26f36f6465c65ba47d025e7cc54108786f2b5a945c9e1b9",
+  "notlar": "Dijital Dosyalama / Tam İş Akışı sırasında e-Fatura, e-Arşiv ve e-SMM indirmelerinde oluşan 'karta_gore' parametre uyumsuzluğu giderildi; mükellef kartına göre kapsam dışı alt adımların durum kaydı ve e-SMM Satış eşleşmesi düzeltildi.",
+  "imza": "goajk2TQlDu0FkkCGuakxyxm7uHZLJm_fkSZ8HNp5Vg4nYpToJ7RUS2dycAzScwMXZHTw22Vcvy82r9EAqIOCA"
 }
