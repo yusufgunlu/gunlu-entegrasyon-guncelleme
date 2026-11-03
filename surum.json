@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.6",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.6/GunluEntegrasyon_Setup_3.6.6.exe",
-  "sha256": "8d8132abaae85c76a26f36f6465c65ba47d025e7cc54108786f2b5a945c9e1b9",
-  "notlar": "Dijital Dosyalama / Tam İş Akışı sırasında e-Fatura, e-Arşiv ve e-SMM indirmelerinde oluşan 'karta_gore' parametre uyumsuzluğu giderildi; mükellef kartına göre kapsam dışı alt adımların durum kaydı ve e-SMM Satış eşleşmesi düzeltildi.",
-  "imza": "goajk2TQlDu0FkkCGuakxyxm7uHZLJm_fkSZ8HNp5Vg4nYpToJ7RUS2dycAzScwMXZHTw22Vcvy82r9EAqIOCA"
+  "surum": "3.6.7",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.7/GunluEntegrasyon_Setup_3.6.7.exe",
+  "sha256": "630fea739dade70f4b204488f0953f89ccd2ae34974592313399318730689401",
+  "notlar": "Fişler (Alış/Satış) ve Z Raporu için İşletme/Serbest Meslek Gelir-Gider Girişi desteği ve Mükellef Kartı defter türü seçimi eklendi; hesap kodu kutularında virgül-nokta dönüşümü, banka ekstresi okuma ve bordro menü geçişleri iyileştirildi.",
+  "imza": "4qnHJCi3qxWHWguaFp3N13hIxutfjo-22qp21cSaQKbVHpsL_HCxRkvmtCcWVrFRrUPu23Q49poSA7Cx7VdJCA"
 }
