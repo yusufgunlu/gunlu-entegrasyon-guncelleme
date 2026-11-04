@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.7",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.7/GunluEntegrasyon_Setup_3.6.7.exe",
-  "sha256": "630fea739dade70f4b204488f0953f89ccd2ae34974592313399318730689401",
-  "notlar": "Fişler (Alış/Satış) ve Z Raporu için İşletme/Serbest Meslek Gelir-Gider Girişi desteği ve Mükellef Kartı defter türü seçimi eklendi; hesap kodu kutularında virgül-nokta dönüşümü, banka ekstresi okuma ve bordro menü geçişleri iyileştirildi.",
-  "imza": "4qnHJCi3qxWHWguaFp3N13hIxutfjo-22qp21cSaQKbVHpsL_HCxRkvmtCcWVrFRrUPu23Q49poSA7Cx7VdJCA"
+  "surum": "3.6.8",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.8/GunluEntegrasyon_Setup_3.6.8.exe",
+  "sha256": "7f12bf31f4071c807cfb58a449e6541630daee0610917fc45c4c6805a40d3773",
+  "notlar": "Fatura İşleme (Taslak Fişler) ekranına %70 / %30 akaryakıt-enerji gider kısıtlaması (araba simgesi) eklendi; Tam İş Akışı adımlarında e-Fatura ve e-Arşiv Alış/Satış ayrımı ile varsayılan boş seçim düzenlendi; E-Defter uyumsuz belge taraması ve otomatik uyumlu hale getirme (20044 fiş bölme, 20042 tahakkuk MF atama) özelliği eklendi.",
+  "imza": "uMAgqK4DVEluj3FEDxtAYWukd6O8I17SR4dAEg3RVkwKTKOlRiVIi0dxXTjwvHrdmzEEjPn70TAo_BEDo_xDCQ"
 }
