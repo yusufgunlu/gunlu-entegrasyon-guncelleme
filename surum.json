@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.8",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.8/GunluEntegrasyon_Setup_3.6.8.exe",
-  "sha256": "7f12bf31f4071c807cfb58a449e6541630daee0610917fc45c4c6805a40d3773",
-  "notlar": "Fatura İşleme (Taslak Fişler) ekranına %70 / %30 akaryakıt-enerji gider kısıtlaması (araba simgesi) eklendi; Tam İş Akışı adımlarında e-Fatura ve e-Arşiv Alış/Satış ayrımı ile varsayılan boş seçim düzenlendi; E-Defter uyumsuz belge taraması ve otomatik uyumlu hale getirme (20044 fiş bölme, 20042 tahakkuk MF atama) özelliği eklendi.",
-  "imza": "uMAgqK4DVEluj3FEDxtAYWukd6O8I17SR4dAEg3RVkwKTKOlRiVIi0dxXTjwvHrdmzEEjPn70TAo_BEDo_xDCQ"
+  "surum": "3.6.9",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.9/GunluEntegrasyon_Setup_3.6.9.exe",
+  "sha256": "5a01deb6e9bd169b92e36c7934f5b18c724b9d1ddb386cdbd760bb858f1e321a",
+  "notlar": "Luca Akıllı Entegrasyon Noktası altındaki yeni menü yapısı (GİB e-Belge, İşnet NetteFatura, TÜRMOB e-Belge ara menüleri ile GİB e-SMM Alış/Satış ve UTTS Akaryakıt Giderleri yolları) Dijital Dosyalama, Tam İş Akışı ve Fatura İşleme ekranlarına uyarlandı; Banka Ekstresi okuyucuda PDF yazı tipi (cmap) çözümlemesi ile Vakıf Katılım ve İş Bankası ekstre biçimleri iyileştirildi.",
+  "imza": "RK8P6FHVa27fQh8I11G4kOLaNw7gpFqnDP33LnjgwCxlnJW68Ma4pltAQTq8TSdtkAUC6HOv0UpAIJjruto3Bg"
 }
