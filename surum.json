@@ -1,7 +1,7 @@
 {
-    "surum":  "3.7.0",
-    "indirme":  "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.0/GunluEntegrasyon_Setup_3.7.0.exe",
-    "sha256":  "187d2a8e93be4b2a8b751040ab9a3f66b9a7bb48eea49b13b1901835f6f6ca55",
-    "notlar":  "Program genelinde 'Yanıt Vermiyor' kilitlenme koruması eklendi ve açılış performansı hızlandırıldı; Ayarlar menüsünde Mükellef Bilgileri ilk sıraya alındı; Z Raporu (108/100 hesap dağılımı) ve Banka Ekstresi tam açıklama kural eşleştirmesi iyileştirildi.",
-    "imza":  "WQrMv4CnPO0nI3SjGbHxF3AlKcju2UWTUODwCJxjcBH2Qsn3LEzv3TF6tL8K6y-qTG_ztdm1be_pEC1iWrE2Dw"
+  "surum": "3.7.1",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.1/GunluEntegrasyon_Setup_3.7.1.exe",
+  "sha256": "644d654cb6a0fd341b4d37faceed60f0131dc4093cd733ca113dbda083abb38b",
+  "notlar": "Fiş OCR görüntü ön işleme ve okuma kalitesi artırıldı (renkli termal rulo şeridi ve mavi kalem temizliği, eğik tarama düzeltmesi, silik yazı güçlendirme, e-Fatura bilgi fişi, POS slip tarih/tutar ve UTTS akaryakıt fişi çözümleme); Akıllı Entegrasyon yeni hesap açma penceresine Birim ve Döviz Cinsi seçimi eklendi; İŞKUR İşgücü Çizelgesinde özel statü (Engelli, Eski Hükümlü, TMY) satırlarının otomatik dağılımı sağlandı.",
+  "imza": "Btpy_rkpxmhJtkoEtcwEkHUqGsW53yxnzTf4FstVk8qsnE121NoRHURwjwu-oZwkJHhvj3hoE8EOTdvCahcmCQ"
 }
