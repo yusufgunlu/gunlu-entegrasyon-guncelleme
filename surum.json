@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.1",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.1/GunluEntegrasyon_Setup_3.7.1.exe",
-  "sha256": "644d654cb6a0fd341b4d37faceed60f0131dc4093cd733ca113dbda083abb38b",
-  "notlar": "Fiş OCR görüntü ön işleme ve okuma kalitesi artırıldı (renkli termal rulo şeridi ve mavi kalem temizliği, eğik tarama düzeltmesi, silik yazı güçlendirme, e-Fatura bilgi fişi, POS slip tarih/tutar ve UTTS akaryakıt fişi çözümleme); Akıllı Entegrasyon yeni hesap açma penceresine Birim ve Döviz Cinsi seçimi eklendi; İŞKUR İşgücü Çizelgesinde özel statü (Engelli, Eski Hükümlü, TMY) satırlarının otomatik dağılımı sağlandı.",
-  "imza": "Btpy_rkpxmhJtkoEtcwEkHUqGsW53yxnzTf4FstVk8qsnE121NoRHURwjwu-oZwkJHhvj3hoE8EOTdvCahcmCQ"
+  "surum": "3.7.2",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.2/GunluEntegrasyon_Setup_3.7.2.exe",
+  "sha256": "1c65222bf37056d68a30c6361491682348746fb1ef09390b16e2e80525429634",
+  "notlar": "Beyanname Kontrol modülünde Geçici Vergi, Gelir ve Kurumlar beyannameleri için özel tür filtresi ve dönem süzme eklendi; Z Raporunda çoklu yazar kasa POS cihazı olan İşletme Defteri firmalarında mükerrer evrak numarası çakışması giderildi; 4. Dönem Geçici Vergi (17 Şubat), Poşet (GEKAP), Yıllık Gelir ve Kurumlar Vergisi takvim ve Durum Panosu takibine eklendi; İhracat Yüklenilen KDV hesabında satıcı VKN başındaki sıfır düşmesi ve çok kalemli faturalarda önceki kullanımın çift düşülmesi düzeltildi; Luca hesap bilgilerinin Windows DPAPI ile şifreli saklanması ve parola maskeli 5 MB döner günlük desteği eklendi.",
+  "imza": "SjDffzK78BX3KzqP8UMLeRy_31VPFIZguQO1tiIp0ah0qdIRDqICk2imr2BnU2sx1KpXsa3dW_aWemlLdohRAA"
 }
