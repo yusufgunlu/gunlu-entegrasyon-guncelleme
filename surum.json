@@ -1,7 +1,7 @@
 {
-  "surum": "3.6.9",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.6.9/GunluEntegrasyon_Setup_3.6.9.exe",
-  "sha256": "5a01deb6e9bd169b92e36c7934f5b18c724b9d1ddb386cdbd760bb858f1e321a",
-  "notlar": "Luca Akıllı Entegrasyon Noktası altındaki yeni menü yapısı (GİB e-Belge, İşnet NetteFatura, TÜRMOB e-Belge ara menüleri ile GİB e-SMM Alış/Satış ve UTTS Akaryakıt Giderleri yolları) Dijital Dosyalama, Tam İş Akışı ve Fatura İşleme ekranlarına uyarlandı; Banka Ekstresi okuyucuda PDF yazı tipi (cmap) çözümlemesi ile Vakıf Katılım ve İş Bankası ekstre biçimleri iyileştirildi.",
-  "imza": "RK8P6FHVa27fQh8I11G4kOLaNw7gpFqnDP33LnjgwCxlnJW68Ma4pltAQTq8TSdtkAUC6HOv0UpAIJjruto3Bg"
+    "surum":  "3.7.0",
+    "indirme":  "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.0/GunluEntegrasyon_Setup_3.7.0.exe",
+    "sha256":  "187d2a8e93be4b2a8b751040ab9a3f66b9a7bb48eea49b13b1901835f6f6ca55",
+    "notlar":  "Program genelinde 'Yanıt Vermiyor' kilitlenme koruması eklendi ve açılış performansı hızlandırıldı; Ayarlar menüsünde Mükellef Bilgileri ilk sıraya alındı; Z Raporu (108/100 hesap dağılımı) ve Banka Ekstresi tam açıklama kural eşleştirmesi iyileştirildi.",
+    "imza":  "WQrMv4CnPO0nI3SjGbHxF3AlKcju2UWTUODwCJxjcBH2Qsn3LEzv3TF6tL8K6y-qTG_ztdm1be_pEC1iWrE2Dw"
 }
