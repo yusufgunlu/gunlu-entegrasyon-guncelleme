@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.2",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.2/GunluEntegrasyon_Setup_3.7.2.exe",
-  "sha256": "1c65222bf37056d68a30c6361491682348746fb1ef09390b16e2e80525429634",
-  "notlar": "Beyanname Kontrol modülünde Geçici Vergi, Gelir ve Kurumlar beyannameleri için özel tür filtresi ve dönem süzme eklendi; Z Raporunda çoklu yazar kasa POS cihazı olan İşletme Defteri firmalarında mükerrer evrak numarası çakışması giderildi; 4. Dönem Geçici Vergi (17 Şubat), Poşet (GEKAP), Yıllık Gelir ve Kurumlar Vergisi takvim ve Durum Panosu takibine eklendi; İhracat Yüklenilen KDV hesabında satıcı VKN başındaki sıfır düşmesi ve çok kalemli faturalarda önceki kullanımın çift düşülmesi düzeltildi; Luca hesap bilgilerinin Windows DPAPI ile şifreli saklanması ve parola maskeli 5 MB döner günlük desteği eklendi.",
-  "imza": "SjDffzK78BX3KzqP8UMLeRy_31VPFIZguQO1tiIp0ah0qdIRDqICk2imr2BnU2sx1KpXsa3dW_aWemlLdohRAA"
+  "surum": "3.7.3",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.3/GunluEntegrasyon_Setup_3.7.3.exe",
+  "sha256": "6660e55908f53023a2454f36eaa592b16310c6c47d63363429bfb590801b96ca",
+  "notlar": "Alternatif Fatura İşleme modülü eklendi (indirilen XML + HTML/PDF faturalardan mizan ve kural analizli yan yana önizleme, zorunlu miktar ve EF/EA/SM belge türü yazımı, alt satırlara hesap kodu kopyalama, %70/%30 binek otomobili gider kısıtlaması ve tekli/toplu Luca kaydı); Mükellef Bilgileri kartına tüm KDV oranları ile binek KKEG, ÖİV, tevkifat ve stopaj karşılıkları için Mizandan Oto Tanımla destekli muhasebe kodu tanımlama eklendi; E-Tebligat Kontrolü yeni GİB DataGrid tablo yapısıyla uyumlu hale getirildi.",
+  "imza": "2s8y65yYElm0CglHmKjlvg080ZxB5AZFDdM7IAMnES4Fg_2O2Uz8RiMf97uUsU7t7t4M5KHjhu0Mg1nS138gAQ"
 }
