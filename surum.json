@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.3",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.3/GunluEntegrasyon_Setup_3.7.3.exe",
-  "sha256": "6660e55908f53023a2454f36eaa592b16310c6c47d63363429bfb590801b96ca",
-  "notlar": "Alternatif Fatura İşleme modülü eklendi (indirilen XML + HTML/PDF faturalardan mizan ve kural analizli yan yana önizleme, zorunlu miktar ve EF/EA/SM belge türü yazımı, alt satırlara hesap kodu kopyalama, %70/%30 binek otomobili gider kısıtlaması ve tekli/toplu Luca kaydı); Mükellef Bilgileri kartına tüm KDV oranları ile binek KKEG, ÖİV, tevkifat ve stopaj karşılıkları için Mizandan Oto Tanımla destekli muhasebe kodu tanımlama eklendi; E-Tebligat Kontrolü yeni GİB DataGrid tablo yapısıyla uyumlu hale getirildi.",
-  "imza": "2s8y65yYElm0CglHmKjlvg080ZxB5AZFDdM7IAMnES4Fg_2O2Uz8RiMf97uUsU7t7t4M5KHjhu0Mg1nS138gAQ"
+  "surum": "3.7.4",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.4/GunluEntegrasyon_Setup_3.7.4.exe",
+  "sha256": "886cdac0d67c237db20ae45487d493f858abc3968ef1ca4a783e92617fc6f4b3",
+  "notlar": "Banka Ekstresi İşleme modülüne çok sayfalı Kuveyt Türk PDF ekstre okuma, canlı sayfa ilerleme çubuğu, tarih/açıklama/durum filtreleme ve filtrelenen satırlarda en alta kadar aynı hesap kodunu toplu uygulama özelliği eklendi; Alternatif Fatura İşleme tam ekran ve bölünmüş görünümde fatura önizlemesinin ekran boyutuna göre en alta kadar tam uzaması sağlandı.",
+  "imza": "IqU25p9qGEZ3xxCCI96F5GAxCqUtbLfbhnt4ZvpXNfuZpp4073uRmmFZBX3DIC2zrbdQjF18rU2GJ6WrdwGLBw"
 }
