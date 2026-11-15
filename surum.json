@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.4",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.4/GunluEntegrasyon_Setup_3.7.4.exe",
-  "sha256": "886cdac0d67c237db20ae45487d493f858abc3968ef1ca4a783e92617fc6f4b3",
-  "notlar": "Banka Ekstresi İşleme modülüne çok sayfalı Kuveyt Türk PDF ekstre okuma, canlı sayfa ilerleme çubuğu, tarih/açıklama/durum filtreleme ve filtrelenen satırlarda en alta kadar aynı hesap kodunu toplu uygulama özelliği eklendi; Alternatif Fatura İşleme tam ekran ve bölünmüş görünümde fatura önizlemesinin ekran boyutuna göre en alta kadar tam uzaması sağlandı.",
-  "imza": "IqU25p9qGEZ3xxCCI96F5GAxCqUtbLfbhnt4ZvpXNfuZpp4073uRmmFZBX3DIC2zrbdQjF18rU2GJ6WrdwGLBw"
+  "surum": "3.7.5",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.5/GunluEntegrasyon_Setup_3.7.5.exe",
+  "sha256": "f1cba5489f432d3ae4220362804ec17389902fe1d904aa9a6a960f05c9c622dd",
+  "notlar": "Alternatif Fatura İşleme modülünde 1/3 fatura – 2/3 muhasebe fişi düzeni, fatura bilgilerinin üstte muhasebe satırlarının altta gösterimi, Luca'ya miktar aktarımı, fatura tipine göre hesap önerme ve 120/320 ortak cari tarama ile ters hesap uyarısı eklendi; Mükellef Bilgileri ekranında sol liste sola dayandı, küçük harfli mikro etiketler ve Defter Usulü, Muhasebe Kodları, Beyan Dönemi, Entegratör ve Ticaret Sicil için açılır-kapanır bölüm düzeni getirildi.",
+  "imza": "WqXxnYZ9nb6W8gfnXfe2G5mrlB-3GAAmJBDQc4dAciNfcQ5Hj2kcwWrJl1pchpo-1SLSnl-mlMakcC7GFpZCAw"
 }
