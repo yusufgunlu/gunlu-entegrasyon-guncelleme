@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.5",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.5/GunluEntegrasyon_Setup_3.7.5.exe",
-  "sha256": "f1cba5489f432d3ae4220362804ec17389902fe1d904aa9a6a960f05c9c622dd",
-  "notlar": "Alternatif Fatura İşleme modülünde 1/3 fatura – 2/3 muhasebe fişi düzeni, fatura bilgilerinin üstte muhasebe satırlarının altta gösterimi, Luca'ya miktar aktarımı, fatura tipine göre hesap önerme ve 120/320 ortak cari tarama ile ters hesap uyarısı eklendi; Mükellef Bilgileri ekranında sol liste sola dayandı, küçük harfli mikro etiketler ve Defter Usulü, Muhasebe Kodları, Beyan Dönemi, Entegratör ve Ticaret Sicil için açılır-kapanır bölüm düzeni getirildi.",
-  "imza": "WqXxnYZ9nb6W8gfnXfe2G5mrlB-3GAAmJBDQc4dAciNfcQ5Hj2kcwWrJl1pchpo-1SLSnl-mlMakcC7GFpZCAw"
+  "surum": "3.7.6",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.6/GunluEntegrasyon_Setup_3.7.6.exe",
+  "sha256": "0dcc45476705daca044cad405bd578f514d6ff6533159e1abbef511c1edc5b80",
+  "notlar": "Alternatif Fatura İşleme'de Borç/Alacak dört işlem (+ - * /) ve yön değiştirme, miktar aktarımı, 5 satırlı KDV tevkifat yapısı, Aynı Hesap Kodlarını Birleştir ile Matrah / KDV / Cari Eşitle düğmeleri eklendi; önizleme ileri/geri tuşları fatura tutarlarını kapatmayacak şekilde alt çubuğa alındı ve firma geçişi ile cari açma akışı iyileştirildi. Fişler modülünde alış belgelerinin PS, satışların ZR belge türüyle işlenmesi ile su faturası, 180° ters fiş ve termal e-Arşiv otopark faturası OCR okuması eklendi; Banka Ekstresi tablosunda açıklama alanı genişletildi.",
+  "imza": "sTCecLn1i-5Bl7eAzkls-jOl_sI-0ssO2w2SB3k6M2750RYTeJejGbfI__Bnszh-2yzqSW1lyph1DH7peDnYAw"
 }
