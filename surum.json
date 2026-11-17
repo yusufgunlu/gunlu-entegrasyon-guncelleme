@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.6",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.6/GunluEntegrasyon_Setup_3.7.6.exe",
-  "sha256": "0dcc45476705daca044cad405bd578f514d6ff6533159e1abbef511c1edc5b80",
-  "notlar": "Alternatif Fatura İşleme'de Borç/Alacak dört işlem (+ - * /) ve yön değiştirme, miktar aktarımı, 5 satırlı KDV tevkifat yapısı, Aynı Hesap Kodlarını Birleştir ile Matrah / KDV / Cari Eşitle düğmeleri eklendi; önizleme ileri/geri tuşları fatura tutarlarını kapatmayacak şekilde alt çubuğa alındı ve firma geçişi ile cari açma akışı iyileştirildi. Fişler modülünde alış belgelerinin PS, satışların ZR belge türüyle işlenmesi ile su faturası, 180° ters fiş ve termal e-Arşiv otopark faturası OCR okuması eklendi; Banka Ekstresi tablosunda açıklama alanı genişletildi.",
-  "imza": "sTCecLn1i-5Bl7eAzkls-jOl_sI-0ssO2w2SB3k6M2750RYTeJejGbfI__Bnszh-2yzqSW1lyph1DH7peDnYAw"
+  "surum": "3.7.7",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.7/GunluEntegrasyon_Setup_3.7.7.exe",
+  "sha256": "e9ab04b85fd1a87ce2d64165b8d847e0892425266e2f9a05ce18ea13d760af76",
+  "notlar": "İhracat menüsüne GİB şablonuna uygun İndirilecek KDV Listesi Hazırlama (.xlsx inceleme tablosu ve doğrudan GİB yükleme .xls çıktısı, çoklu kalem/miktar birleştirme, 2 Nolu KDV tevkifat ayrıştırma, ihraç kayıtlı alışları kapsam dışı bırakma) eklendi. Alternatif Fatura İşleme'de ihraç kayıtlı alış KDV silme ve matrah/ödenecek tutar uyum kontrolü, açıklama bazlı kural hafızası, Belgeyi Yazdır butonu, yasaklı matrah/cari hesap kısıtları, tek fiş içinde yeni cari açma, F10 boş açılış + alt okla sıradaki kodu bulma ve Luca görünümlü İşletme/Serbest Meslek fiş tablosu (M/Hiz Kodu, Adı, Miktar, Birim Fiyat, Tutar, KDV) eklendi; arayüz buton kontrastları iyileştirildi.",
+  "imza": "ybHjxMTU4yrm7CsrDgxevktWYgAokAkdZRp9Lc7wg_4kV_fUl3Svf4Jjp_03KS0j-XXqIJ4icqbQ1x1YqZDiAA"
 }
