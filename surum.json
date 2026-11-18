@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.7",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.7/GunluEntegrasyon_Setup_3.7.7.exe",
-  "sha256": "e9ab04b85fd1a87ce2d64165b8d847e0892425266e2f9a05ce18ea13d760af76",
-  "notlar": "İhracat menüsüne GİB şablonuna uygun İndirilecek KDV Listesi Hazırlama (.xlsx inceleme tablosu ve doğrudan GİB yükleme .xls çıktısı, çoklu kalem/miktar birleştirme, 2 Nolu KDV tevkifat ayrıştırma, ihraç kayıtlı alışları kapsam dışı bırakma) eklendi. Alternatif Fatura İşleme'de ihraç kayıtlı alış KDV silme ve matrah/ödenecek tutar uyum kontrolü, açıklama bazlı kural hafızası, Belgeyi Yazdır butonu, yasaklı matrah/cari hesap kısıtları, tek fiş içinde yeni cari açma, F10 boş açılış + alt okla sıradaki kodu bulma ve Luca görünümlü İşletme/Serbest Meslek fiş tablosu (M/Hiz Kodu, Adı, Miktar, Birim Fiyat, Tutar, KDV) eklendi; arayüz buton kontrastları iyileştirildi.",
-  "imza": "ybHjxMTU4yrm7CsrDgxevktWYgAokAkdZRp9Lc7wg_4kV_fUl3Svf4Jjp_03KS0j-XXqIJ4icqbQ1x1YqZDiAA"
+  "surum": "3.7.8",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.8/GunluEntegrasyon_Setup_3.7.8.exe",
+  "sha256": "12fb7198a02cdfe22e3fd75ed5ce6073daa2484663ffaed6c753bc133737defd",
+  "notlar": "Beyanname Kontrol tablosunda fatura sorgusu tamamlanan firmalarda KDV2 durumunun güncellenmesi sağlandı, Gelir/Kurum Geçici Vergi tek sütunda birleştirildi ve durumlar renkli rozet görünümüne alındı. Mükellef Kartı hesap tanımlarına Sorumlu Sıfatıyla Ödenen KDV Kodu (191) eklendi. İndirilecek KDV Listesi hazırlama ekranı firma ve dönem seçimiyle sadeleştirilip tek Excel tablosu üretecek şekilde düzenlendi; Alternatif Fatura kayıt koruması ve Fiş OCR okuma iyileştirmeleri eklendi.",
+  "imza": "VxrCtTTcrRPj5bSv5xU2uuGYejS9fBeuH16GIvAumF75xerOqF11X3_8n8j6JNnDkFIOwRfHuyki84jHH3JGAA"
 }
