@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.8",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.8/GunluEntegrasyon_Setup_3.7.8.exe",
-  "sha256": "12fb7198a02cdfe22e3fd75ed5ce6073daa2484663ffaed6c753bc133737defd",
-  "notlar": "Beyanname Kontrol tablosunda fatura sorgusu tamamlanan firmalarda KDV2 durumunun güncellenmesi sağlandı, Gelir/Kurum Geçici Vergi tek sütunda birleştirildi ve durumlar renkli rozet görünümüne alındı. Mükellef Kartı hesap tanımlarına Sorumlu Sıfatıyla Ödenen KDV Kodu (191) eklendi. İndirilecek KDV Listesi hazırlama ekranı firma ve dönem seçimiyle sadeleştirilip tek Excel tablosu üretecek şekilde düzenlendi; Alternatif Fatura kayıt koruması ve Fiş OCR okuma iyileştirmeleri eklendi.",
-  "imza": "VxrCtTTcrRPj5bSv5xU2uuGYejS9fBeuH16GIvAumF75xerOqF11X3_8n8j6JNnDkFIOwRfHuyki84jHH3JGAA"
+  "surum": "3.7.9",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.9/GunluEntegrasyon_Setup_3.7.9.exe",
+  "sha256": "4918231ed6bf5440ddf4b5f1f6fb0f78f53b36585b95b349b0340726c51bf07b",
+  "notlar": "Firma geçişleri ve bilinen defter türüne (bilanço, işletme, serbest meslek) göre menü açılışları hızlandırıldı. Alternatif Fatura İşleme modülünde farklı firmaya geçişte ilk tıklamada faturaların getirilmesi sağlandı. KDV Analizi'nde Luca 191 ve 391 muavin Excel dosyalarının eksiksiz okunması sağlandı ve UTTS akaryakıt fişlerinin Fatura Tipi PS olarak sabitlendi. Fişler(Alış) OCR okuma ekranında %1, %10 ve %20 KDV oranlı kalemlerin kendi içlerinde tek satırda birleştirilip satır açıklamasına işletme ünvanının yazılması sağlandı.",
+  "imza": "rIbTSlenS0QdcbxYctdIosUcQ-7dFtmTgfpsEXP9pTYdWZwlXz4rHerQ5NLUTnGQ3lF2mso3x4egaTfrjUnNCQ"
 }
