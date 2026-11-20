@@ -1,7 +1,7 @@
 {
-  "surum": "3.7.9",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.7.9/GunluEntegrasyon_Setup_3.7.9.exe",
-  "sha256": "4918231ed6bf5440ddf4b5f1f6fb0f78f53b36585b95b349b0340726c51bf07b",
-  "notlar": "Firma geçişleri ve bilinen defter türüne (bilanço, işletme, serbest meslek) göre menü açılışları hızlandırıldı. Alternatif Fatura İşleme modülünde farklı firmaya geçişte ilk tıklamada faturaların getirilmesi sağlandı. KDV Analizi'nde Luca 191 ve 391 muavin Excel dosyalarının eksiksiz okunması sağlandı ve UTTS akaryakıt fişlerinin Fatura Tipi PS olarak sabitlendi. Fişler(Alış) OCR okuma ekranında %1, %10 ve %20 KDV oranlı kalemlerin kendi içlerinde tek satırda birleştirilip satır açıklamasına işletme ünvanının yazılması sağlandı.",
-  "imza": "rIbTSlenS0QdcbxYctdIosUcQ-7dFtmTgfpsEXP9pTYdWZwlXz4rHerQ5NLUTnGQ3lF2mso3x4egaTfrjUnNCQ"
+  "surum": "3.8.0",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.0/GunluEntegrasyon_Setup_3.8.0.exe",
+  "sha256": "b4eb4a48c43015cefe7026bfd1943bd36e60b2fa20c4f55edbfdd57c831a819e",
+  "notlar": "Fiş OCR çalışma ortamı seçimi ve Alternatif Fatura İşleme ile çift yönlü senkronizasyon eklendi; hesap planı açmada otomatik kod önerisi kaldırılarak serbest kırılım ve üst kırılım kontrolü getirildi; İŞKUR çizelge takibi ve Luca firma geçiş hızı iyileştirildi.",
+  "imza": "CYsHL-QS2Dji3jDgyhGztvh4sFIKMQTuS7shGmZb8NBLWYvgc4Y7vpDka7mHsabPAXNb8U0uMQBOQC7rqCHfAg"
 }
