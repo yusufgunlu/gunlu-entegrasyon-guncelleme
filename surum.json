@@ -1,7 +1,7 @@
 {
-  "surum": "3.8.1",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.1/GunluEntegrasyon_Setup_3.8.1.exe",
-  "sha256": "19ca2072e9b5c5a35cb11fa764164f097880c738d3c39496efe878bd994a4189",
-  "notlar": "KDV kontrol analizine oran kırılımlı Şablon 1 Excel raporu, çok oranlı XML eşleştirmesi ve grup içi tarih sıralaması eklendi; İşletme Defteri gider (120 alt tür) ve gelir (66 alt tür) fiş seçenekleri ile Fatura İşleme ortak açıklama ve alt tür hafızası geliştirildi; Banka Ekstresi ekranına Mizan Çek düğmesi ve açık taslak satır yenileme eklendi.",
-  "imza": "6zkQwtVXTGLFyC6vTndefznz8-kAT298Q7aWiz5xKsNW3vxgG6jEL3dAZMP6qAoG8h5N2Qzpkjv-kB1ienIyAQ"
+  "surum": "3.8.2",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.2/GunluEntegrasyon_Setup_3.8.2.exe",
+  "sha256": "862622423a161c481fdc1877d35cb1a3b8f7238ea45e00c528a182741046fbe9",
+  "notlar": "E-Tebligat kontrolü ve POS bilgileri sorgulaması tek menüde ve tek GİB oturumunda birleştirildi; yalnızca aktif listede yer alan firmaların sorgulanması sağlandı; POS boş sonuç bekleme gecikmesi giderildi, GİB güvenlik kodu görseli ve iki aşamalı doğrulama atlama akışı iyileştirildi.",
+  "imza": "BVbef5WOrCOfFoCbLK2UMRJvxoavk--U5JXY4rbn2bycJIDe6aQee0ZXxgI4Si_ydEfYcePt9_MQFcuuyGz4BQ"
 }
