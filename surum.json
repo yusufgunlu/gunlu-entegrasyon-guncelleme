@@ -1,7 +1,7 @@
 {
-  "surum": "3.8.0",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.0/GunluEntegrasyon_Setup_3.8.0.exe",
-  "sha256": "b4eb4a48c43015cefe7026bfd1943bd36e60b2fa20c4f55edbfdd57c831a819e",
-  "notlar": "Fiş OCR çalışma ortamı seçimi ve Alternatif Fatura İşleme ile çift yönlü senkronizasyon eklendi; hesap planı açmada otomatik kod önerisi kaldırılarak serbest kırılım ve üst kırılım kontrolü getirildi; İŞKUR çizelge takibi ve Luca firma geçiş hızı iyileştirildi.",
-  "imza": "CYsHL-QS2Dji3jDgyhGztvh4sFIKMQTuS7shGmZb8NBLWYvgc4Y7vpDka7mHsabPAXNb8U0uMQBOQC7rqCHfAg"
+  "surum": "3.8.1",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.1/GunluEntegrasyon_Setup_3.8.1.exe",
+  "sha256": "19ca2072e9b5c5a35cb11fa764164f097880c738d3c39496efe878bd994a4189",
+  "notlar": "KDV kontrol analizine oran kırılımlı Şablon 1 Excel raporu, çok oranlı XML eşleştirmesi ve grup içi tarih sıralaması eklendi; İşletme Defteri gider (120 alt tür) ve gelir (66 alt tür) fiş seçenekleri ile Fatura İşleme ortak açıklama ve alt tür hafızası geliştirildi; Banka Ekstresi ekranına Mizan Çek düğmesi ve açık taslak satır yenileme eklendi.",
+  "imza": "6zkQwtVXTGLFyC6vTndefznz8-kAT298Q7aWiz5xKsNW3vxgG6jEL3dAZMP6qAoG8h5N2Qzpkjv-kB1ienIyAQ"
 }
