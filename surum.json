@@ -1,7 +1,7 @@
 {
-  "surum": "3.8.2",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.2/GunluEntegrasyon_Setup_3.8.2.exe",
-  "sha256": "862622423a161c481fdc1877d35cb1a3b8f7238ea45e00c528a182741046fbe9",
-  "notlar": "E-Tebligat kontrolü ve POS bilgileri sorgulaması tek menüde ve tek GİB oturumunda birleştirildi; yalnızca aktif listede yer alan firmaların sorgulanması sağlandı; POS boş sonuç bekleme gecikmesi giderildi, GİB güvenlik kodu görseli ve iki aşamalı doğrulama atlama akışı iyileştirildi.",
-  "imza": "BVbef5WOrCOfFoCbLK2UMRJvxoavk--U5JXY4rbn2bycJIDe6aQee0ZXxgI4Si_ydEfYcePt9_MQFcuuyGz4BQ"
+  "surum": "3.8.3",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.3/GunluEntegrasyon_Setup_3.8.3.exe",
+  "sha256": "1e3a7350b8265ee40fb0a7fd344b691332b4201c864e18e9b7c5a4a95be52dc5",
+  "notlar": "Tam İş Akışı e-Arşiv Alış/Satış sorgulamalarında gece otomatik sorgulama ve iptal/itiraz otomatik sorgulama seçenekleri otomatik işaretlenir; Luca Bağlantı Merkezi kapalı uyarısı geldiğinde sorgulama anında durdurulup ekranda gösterilir. Ayrıca E-Defter 3 aylık fiş kontrolü, çoklu Z raporu ayırma, yerel OCR motoru ve alternatif fatura muhasebeleştirme iyileştirmeleri eklendi.",
+  "imza": "vniOYwun-z27C_0zbM5zNaAN2wInVsmfuu5YmfNAB80o6NbfTi_T39EccgqJt0MR0ELWV3Ou4Jc61mczJUa-DQ"
 }
