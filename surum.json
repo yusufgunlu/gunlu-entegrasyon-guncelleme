@@ -1,7 +1,7 @@
 {
-  "surum": "3.8.3",
-  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.3/GunluEntegrasyon_Setup_3.8.3.exe",
-  "sha256": "1e3a7350b8265ee40fb0a7fd344b691332b4201c864e18e9b7c5a4a95be52dc5",
-  "notlar": "Tam İş Akışı e-Arşiv Alış/Satış sorgulamalarında gece otomatik sorgulama ve iptal/itiraz otomatik sorgulama seçenekleri otomatik işaretlenir; Luca Bağlantı Merkezi kapalı uyarısı geldiğinde sorgulama anında durdurulup ekranda gösterilir. Ayrıca E-Defter 3 aylık fiş kontrolü, çoklu Z raporu ayırma, yerel OCR motoru ve alternatif fatura muhasebeleştirme iyileştirmeleri eklendi.",
-  "imza": "vniOYwun-z27C_0zbM5zNaAN2wInVsmfuu5YmfNAB80o6NbfTi_T39EccgqJt0MR0ELWV3Ou4Jc61mczJUa-DQ"
+  "surum": "3.8.4",
+  "indirme": "https://github.com/yusufgunlu/gunlu-entegrasyon-guncelleme/releases/download/v3.8.4/GunluEntegrasyon_Setup_3.8.4.exe",
+  "sha256": "44ddca4dd0f2293568dd9a3804da7e8869ea2c74c9c2edef1a52cdaed101a1d7",
+  "notlar": "E-Defter Gönderim Öncesi Hesap Denetimi modülü eklendi (4 dönem mizan/muavin ile 191, 391, 360, 361, 335, 108, 309, 590/591, 131/331, kasa/banka eksi günler ve yevmiye kontrolü); e-Arşiv belge çekiminde iptal/itiraz sorgulaması bekleme iyileştirildi.",
+  "imza": "BontyLANRSvrBQcXG23cPiOU6ZlpPhbuCMwtb3WgvK-tlhdg495qAMyo8xptUEbvVKzmRzJygZA_tZY6JZWJBA"
 }
